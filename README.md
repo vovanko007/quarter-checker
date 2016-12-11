@@ -12,8 +12,7 @@ Here is its code:
         print('Some coordinate was passed with incorrect value!');
     }
     if (x == '' || y == '') {
-        print('Some coordinate value is empty!');
-        
+        print('Some coordinate value is empty!');   
     }
     else if (x > 0 && y > 0) {
         print('Point is in the first QUARTER!');
