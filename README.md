@@ -6,7 +6,7 @@ input values of its 'x' and 'y' axis.</span>
 
 Here is its code:
 
-"" Javascript
+``` Javascript
 
     if (isNaN(x) || isNaN(y)) {
         print('Some coordinate was passed with incorrect value!');
@@ -41,6 +41,7 @@ Here is its code:
     else if (x == 0 && y == 0) {
         print('Point is in the beginning of coordinate system!');
     }
-    ''''
+  ```
+    Project published: 
     
-    Project published at https://vovanko007.github.io/quarter-checker/
+ https://vovanko007.github.io/quarter-checker/
