@@ -1,7 +1,7 @@
 var output = "";
 
 function print(data) {
-    output = '<h2>' + data + '</h2>';
+    output += '<h2>' + data + '</h2>';
     document.getElementById('output').innerHTML = output;
 }
 function read(id) {
