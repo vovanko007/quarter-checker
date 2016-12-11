@@ -12,6 +12,7 @@ if (isNaN(x) || isNaN(y)) {
     }
     if (x == '' || y == '') {
         print('Some coordinate value is empty!');
+        
     }
     else if (x > 0 && y > 0) {
         print('Point is in the first QUARTER!');
@@ -41,3 +42,5 @@ if (isNaN(x) || isNaN(y)) {
         print('Point is in the beginning of coordinate system!');
     }
     ''''
+    
+    Project published at https://vovanko007.github.io/quarter-checker/
