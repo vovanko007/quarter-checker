@@ -6,7 +6,8 @@ input values of its 'x' and 'y' axis.</span>
 
 Here is its code:
 
-"" Javascript 
+"" Javascript
+
     if (isNaN(x) || isNaN(y)) {
         print('Some coordinate was passed with incorrect value!');
     }
